@@ -55,7 +55,7 @@ _Visuals included in the dashboard to explore:_
 ## Insight Deep Dive
 
 ### Departmental Payroll Distribution
-- Marketing leads departmental salary spending, totaling **~$3.81M**, including the highest basic salary outlay (**$3.58M**).
+- Marketing leads departmental salary spending, totaling **$3.81M**, including the highest basic salary outlay (**$3.58M**).
 - HR and Finance follow with **$3.34M** and **$2.77M**, respectively.
 - Sales records **$2.06M**, with leaner compensation but competitive net pay due to efficient deductions.
 - IT shows the lowest payroll expense (**$1.72M**), reflecting lean teams or cost-optimized staffing.
