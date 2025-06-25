@@ -102,7 +102,7 @@ Power BI was used for data modeling, KPI computation, and dashboard development 
 - HR staff **Latoya Kirk** and **Amber Taylor** rank second and third with **$85,536** and **$82,563**.
 - Marketing and HR dominate the top salary brackets.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e1f476e-b45a-4ea2-b6cc-293d88d4de6c" alt="Payroll Visual 4" width="700"/>
+  <img src="https://github.com/user-attachments/assets/08f5d699-114e-40cc-a1d4-7f5bbd84aa56" alt="Top 5 Employees by Net Pay" width="500"/>
 </p>
 
 ---
