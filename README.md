@@ -71,7 +71,7 @@ _Visuals included in the dashboard to explore:_
 - Part-time contracts are most common in Marketing and HR (**192 each**), followed by IT (**120**).
 
 ### Payment Method Analysis
-- **Bank Transfer** dominates in every department—especially Marketing (**$1.84M**) and HR (**$1.69M**).
+- **Bank Transfer** dominates in every department, Especially Marketing (**$1.84M**) and HR (**$1.69M**).
 - **Mobile Money** is heavily used in Marketing (**$1.24M**) and Sales (**$753K**).
 - **Cash** is used minimally, mostly in HR (**$732K**) and IT (**$600K**).
 
