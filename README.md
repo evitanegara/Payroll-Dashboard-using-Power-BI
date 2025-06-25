@@ -105,6 +105,7 @@ Power BI was used for data modeling, KPI computation, and dashboard development 
   <img src="https://github.com/user-attachments/assets/08f5d699-114e-40cc-a1d4-7f5bbd84aa56" alt="Top 5 Employees by Net Pay" width="500"/>
 </p>
 
+
 ---
 
 ## Recommendations
