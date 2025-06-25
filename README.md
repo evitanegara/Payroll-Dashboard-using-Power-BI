@@ -61,9 +61,9 @@ _Visuals included in the dashboard to explore:_
 - IT shows the lowest payroll expense (**$1.72M**), reflecting lean teams or cost-optimized staffing.
 
 ### Workforce Composition by Job Title
-- **Marketing Officers** dominate with **672 employees**—the largest job group in the company.
+- **Marketing Officers** dominate with **672 employees**, the largest job group in the company.
 - HR and Finance follow with **HR Officers + Managers (564)** and **Accountants + Finance Analysts (492)**.
-- IT and Sales are the smallest teams: **360 Sales Executives/Reps**, **312 IT staff**.
+- IT and Sales are the smallest teams: **360 Sales Executives/Reps**, **312 IT staff** including System Administrators, UI/UX Designers, and Software Engineers.
 
 ### Employment Type Breakdown
 - Marketing employs **240 full-time** and **240 interns**, showcasing a strong mix of experienced and early-career staff.
