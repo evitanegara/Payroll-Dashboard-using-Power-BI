@@ -83,7 +83,7 @@ _Visuals included in the dashboard to explore:_
 
 ### Top Net Salary Insights
 - **Angela Phillips (Marketing Officer)** holds the highest net pay at **$88,052**.
-- HR staff—**Latoya Kirk** and **Amber Taylor**—rank second and third with **$85,536** and **$82,563**.
+- HR staff **Latoya Kirk** and **Amber Taylor** rank second and third with **$85,536** and **$82,563**.
 - Marketing and HR dominate the top salary brackets.
 
 ---
@@ -94,7 +94,7 @@ _Visuals included in the dashboard to explore:_
   While bank transfers dominate, Sales and Marketing departments utilize mobile money significantly. Standardize infrastructure and policies to support all digital channels with robust fraud prevention and cost controls.
 
 - **Minimize Cash Dependency**  
-  Cash remains in limited use (e.g., HR and IT), but poses higher risk and audit challenges. Migrate remaining teams to secure, traceable digital payroll methods to enhance efficiency and compliance.
+  Cash remains in limited use (included: HR and IT), but poses higher risk and audit challenges. Migrate remaining teams to secure, traceable digital payroll methods to enhance efficiency and compliance.
 
 - **Balance Contract Types Across Departments**  
   Marketing and HR effectively use a mix of full-time, interns, and part-time roles. Departments like IT and Sales should adopt similar flexibility to optimize headcount, manage costs, and ensure operational agility.
